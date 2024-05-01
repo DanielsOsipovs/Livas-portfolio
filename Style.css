@@ -1,0 +1,31 @@
+
+  body {
+   background-color: #6198cf;
+  }
+  
+  header {
+    background-color: var(--primary-color);
+    padding: 1rem;
+  }
+  
+  header .logo {
+    float: left;
+  }
+  
+  header .logo h1 {
+    color: var(--light-color);
+    font-size: 1.5rem;
+    margin: 0;
+  }
+  
+  header .nav-links {
+    float: right;
+  }
+  .img23{
+    height: 100%;
+    width: 100%;
+  }
+
+  
+
+
